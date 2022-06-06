@@ -77,7 +77,7 @@ public class Main {
         finish = System.currentTimeMillis();
         timeElapsed[1] = finish - start;
 
-        // delete from begining
+        // delete
         start = System.currentTimeMillis();
 
         for (int i = 0; i < N; i++) {
@@ -117,7 +117,7 @@ public class Main {
         finish = System.currentTimeMillis();
         timeElapsed[1] = finish - start;
 
-        // delete from beginig
+        // delete
         start = System.currentTimeMillis();
 
         for (int i = 0; i < N; i++) {
